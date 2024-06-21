@@ -1,0 +1,19 @@
+.paperImg img{
+    max-width: 260px;
+    max-height: 200px;
+}
+
+
+.RPS{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+
+}
+.title{
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: white;
+}
